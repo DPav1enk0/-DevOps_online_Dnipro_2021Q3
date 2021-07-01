@@ -1,9 +1,8 @@
-H1 {
+h1 {
   color: #4682B4;
   font-size: 200%;
   font-family: Arial, Verdana, sans-serif;
-  text-align: center;
 }
-P {
+p {
   padding-left: 20px;
 }
