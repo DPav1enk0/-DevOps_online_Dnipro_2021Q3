@@ -1,0 +1,76 @@
+
+progr@DESKTOP-0RRFNNK MINGW64 ~/Documents/GitHub/-DevOps_online_Dnipro_2021Q3 (develop)
+$ git reflog
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{0}: Branch: renamed refs/heads/master to refs/heads/develop
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{2}: checkout: moving from main to master
+84d7b8f (main) HEAD@{3}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{4}: checkout: moving from Images to develop
+a9bac4c (Images) HEAD@{5}: checkout: moving from main to Images
+84d7b8f (main) HEAD@{6}: checkout: moving from Images to main
+a9bac4c (Images) HEAD@{7}: checkout: moving from styles to Images
+be65161 (styles) HEAD@{8}: checkout: moving from develop to styles
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{9}: checkout: moving from main to develop
+84d7b8f (main) HEAD@{10}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{11}: checkout: moving from main to develop
+84d7b8f (main) HEAD@{12}: commit: Update readme.txt
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{13}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{14}: checkout: moving from main to develop
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{15}: checkout: moving from develop to main
+:...skipping...
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{0}: Branch: renamed refs/heads/master to refs/heads/develop
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{2}: checkout: moving from main to master
+84d7b8f (main) HEAD@{3}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{4}: checkout: moving from Images to develop
+a9bac4c (Images) HEAD@{5}: checkout: moving from main to Images
+84d7b8f (main) HEAD@{6}: checkout: moving from Images to main
+a9bac4c (Images) HEAD@{7}: checkout: moving from styles to Images
+be65161 (styles) HEAD@{8}: checkout: moving from develop to styles
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{9}: checkout: moving from main to develop
+84d7b8f (main) HEAD@{10}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{11}: checkout: moving from main to develop
+84d7b8f (main) HEAD@{12}: commit: Update readme.txt
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{13}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{14}: checkout: moving from main to develop
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{15}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{16}: checkout: moving from styles to develop
+be65161 (styles) HEAD@{17}: checkout: moving from main to styles
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{18}: checkout: moving from styles to main
+be65161 (styles) HEAD@{19}: checkout: moving from main to styles
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{20}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{21}: checkout: moving from main to develop
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{22}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{23}: checkout: moving from main to develop
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{24}: merge develop: Fast-forward
+1d33e98 HEAD@{25}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{26}: checkout: moving from main to develop
+1d33e98 HEAD@{27}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{28}: checkout: moving from main to develop
+1d33e98 HEAD@{29}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{30}: checkout: moving from main to develop
+1d33e98 HEAD@{31}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{32}: checkout: moving from main to develop
+1d33e98 HEAD@{33}: checkout: moving from develop to main
+8fe7351 (HEAD -> develop, origin/develop) HEAD@{34}: commit: Update index.html
+347baca HEAD@{35}: commit: Update style1.css
+8509caa HEAD@{36}: commit: Revert "Merge branch 'styles' into develop"
+fed8af5 HEAD@{37}: commit (merge): Merge branch 'Images' into develop
+5a6129f HEAD@{38}: checkout: moving from Images to develop
+a9bac4c (Images) HEAD@{39}: checkout: moving from styles to Images
+be65161 (styles) HEAD@{40}: checkout: moving from develop to styles
+5a6129f HEAD@{41}: checkout: moving from Images to develop
+a9bac4c (Images) HEAD@{42}: checkout: moving from develop to Images
+5a6129f HEAD@{43}: reset: moving to 5a6129fc6e2275656979dbc818e4ac700212241f
+02072fb HEAD@{44}: checkout: moving from Images to develop
+a9bac4c (Images) HEAD@{45}: checkout: moving from styles to Images
+be65161 (styles) HEAD@{46}: checkout: moving from develop to styles
+02072fb HEAD@{47}: revert: Revert "Merge branch 'styles' into develop"
+5a6129f HEAD@{48}: reset: moving to HEAD
+5a6129f HEAD@{49}: checkout: moving from main to develop
+1d33e98 HEAD@{50}: checkout: moving from develop to main
+5a6129f HEAD@{51}: reset: moving to HEAD
+5a6129f HEAD@{52}: merge styles: Merge made by the 'recursive' strategy.
+2575b6d HEAD@{53}: checkout: moving from styles to develop
+be65161 (styles) HEAD@{54}: checkout: moving from Images to styles
+a9bac4c (Images) HEAD@{55}: checkout: moving from styles to Images
+be65161 (styles) HEAD@{56}: commit: Create index.html
+:
