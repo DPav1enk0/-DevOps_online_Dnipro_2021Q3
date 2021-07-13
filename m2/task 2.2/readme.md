@@ -18,7 +18,7 @@
 ***
 [Сайт](https://infosite2021.pp.ua/)
 
-[Скриншоты](/m2/task_2.2/screenshots.pdf)
+[Скриншоты](https://github.com/DPav1enk0/-DevOps_online_Dnipro_2021Q3/blob/a4eb499c37d260b12d39cd7b8e7405802bb5c502/m2/task%202.2/screenshots.pdf)
 
 
 
