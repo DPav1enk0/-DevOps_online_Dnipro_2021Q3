@@ -7,6 +7,8 @@
  
 -[task1.1](m1/index.html)
 
--[Task 2.1](/m2/readme.md)
+-[task 2.1](/m2/readme.md)
+
+-[task 2.2](/m2/task2.2/readme.md)
 ---
 
