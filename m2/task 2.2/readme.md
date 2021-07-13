@@ -18,7 +18,7 @@
 ***
 [Сайт](https://infosite2021.pp.ua/)
 
-[Скриншоты](/screenshots.pdf)
+[Скриншоты](/m2/task2.2/screenshots.pdf)
 
 
 
