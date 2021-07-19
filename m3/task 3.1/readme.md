@@ -56,7 +56,7 @@
 ***
 [Документация по SELECT](https://dev.mysql.com/doc/refman/8.0/en/retrieving-data.html)
 
-[Скриншоты](/task_3.1/screenshots.pdf)
+[Скриншоты](/m3/task 3.1/screenshots.pdf)
 
 
 
