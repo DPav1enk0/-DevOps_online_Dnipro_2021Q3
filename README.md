@@ -10,5 +10,7 @@
 -[task 2.1](/m2/readme.md)
 
 -[task 2.2](/m2/task2.2/readme.md)
+
+-[task 3.1](https://github.com/DPav1enk0/-DevOps_online_Dnipro_2021Q3/blob/57d1137e022f3007ebd34f9b513568943acc22af/m3/task%203.1/readme.md)
 ---
 
