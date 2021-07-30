@@ -45,7 +45,7 @@ GID от 100 (500 в Red Hat Linux, 1000 в Debian) и выше, предназ�
 ***
 [Manual по установке прав доступа](https://andreyex.ru/operacionnaya-sistema-linux/razresheniya-i-prava-dostupa-k-fajlam-linux-s-primerami/)
 
-[Скриншоты](/m5/task5.2/screenshots.pdf)
+[Скриншоты](/m5/taks5.2/screenshots.pdf)
 
 
 
