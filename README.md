@@ -13,6 +13,6 @@
 - [task 4.2](m4/task4.2/readme.md)
 - [task 4.3](m4/task4.3/readme.md)
 - [task 5.1](m5/task5.1/readme.md)
-- [task 5.2](m5/task5.2/readme.md)
+- [task 5.2](m5/taks5.2/readme.md)
 ---
 
