@@ -15,5 +15,6 @@
 - [task 5.1](m5/task5.1/readme.md)
 - [task 5.2](m5/taks5.2/readme.md)
 - [task 5.3](m5/task5.3/readme.md)
+- [task 6.1](m6/task6.1/readme.md)
 ---
 
