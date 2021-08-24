@@ -1,0 +1,10 @@
+Backing up /home/dmitry/Public to /home/dmitry/backup/hostname-вівторок.tgz
+вівторок, 24 серпня 2021 09:49:01 +0300
+
+tar: Removing leading `/' from member names
+
+Backup finished
+вівторок, 24 серпня 2021 09:49:01 +0300
+total 8,0K
+-rw-r--r-- 1 root root 1,8K сер 24 09:49 hostname-вівторок.tgz
+-rw-r--r-- 1 root root 1,8K сер 23 14:41 hostname-понеділок.tgz
